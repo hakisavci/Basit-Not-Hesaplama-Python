@@ -1,7 +1,7 @@
 import time
 
 print('Basit Not Hesaplama Programı')
-print('Not: vize notunu %30 final notunu %70'"\n")
+print('Not: vize notunun %30 final notunun %70'"\n")
 
 print('Lütfen isminizi giriniz:'"\n")
 myName = input()
