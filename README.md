@@ -1,0 +1,1 @@
+# Basit-Not-Hesaplama
