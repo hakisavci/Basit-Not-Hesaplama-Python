@@ -1,1 +1,1 @@
-# Basit-Not-Hesaplama
+# Basit Not Hesaplama
